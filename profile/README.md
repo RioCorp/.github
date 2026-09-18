@@ -6,12 +6,12 @@ Rio Dev Group is a small, tight-knit team of developers focused on game security
 
 ---
 
-## ❔ What We Do
+## ❔ Our Collective Interests
 
-- **Pentesting Tools** - Custom tooling for spying on network events, decompiling Luau bytecode, and other absolute essentials.
-- **Whitelabel Luau Scripts** - Premium, unbranded script products built for partners who need reliable, production-ready code they can ship under their own name.
-- **Open Source Scripts** - Several code snippets sourced directly from multiple iterations of our codebase, quality guaranteed.
+1. Licensing systems: Building custom authentication flows protected by perfect cryptographic practices and client-server obscurities.
+2. Anti-cheat analysis: Working with systems like VAC, Hyphon, Adonis, OpenAC, Rivals, and BAC.
+3. Luau scripting: Creating enhancement scripts for popular Roblox.com experiences.
 
 ## 🚨 Looking for Partners
 
-We're always open to working with new collaborators - studios, platforms, and fellow developers alike. If you're building something in the game security or scripting space and think there's a fit, reach out.
+We're always open to working with new collaborators - studios, platforms, and fellow developers alike. If you're building something in the game security or scripting space and think there's a fit, reach out!
